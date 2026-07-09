@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="800" alt="Testat Words Cover" src="https://github.com/user-attachments/assets/0c0f3fe9-3cd7-4e32-a5cd-f5309e92acb9" />
+</div>
+
 # 🎓 Testat Words
 
 أداة ذكية وبسيطة مصممة خصيصاً لمساعدة المعلمين في إنشاء محتوى تعليمي تفاعلي.
@@ -29,13 +33,13 @@
 
 1. في الشاشة الزرقاء التحذيرية، اضغط على كلمة **"مزيد من المعلومات"** أو **(More info)**.
 
-   <img width="450" alt="Windows SmartScreen - More Info" src="https://github.com/user-attachments/assets/4ad95653-46d3-4373-a1b0-f4f6158d08f6" />
+   <img width="450" alt="Windows SmartScreen - More Info" src="https://github.com/user-attachments/assets/0f9cefdd-f211-4121-9264-0075f0e99a69"  />
 
 2. سيظهر لك زر جديد بالأسفل، اضغط على **"تشغيل على أي حال"** أو **(Run anyway)**.
 
-   <img width="450" alt="Windows SmartScreen - Run Anyway" src="https://github.com/user-attachments/assets/0add074c-8d5c-44a3-ac59-25c268223dd7" />
+   <img width="450" alt="Windows SmartScreen - Run Anyway"  src="https://github.com/user-attachments/assets/8a34bff3-5eac-4eb5-b37e-b682b6be7bb5"/>
 
-3. سيبدأ التثبيت بشكل طبيعي.
+3. سيبدأ التثبيت بشكل![Uploading 1.webp…]().
 
 ---
 
@@ -45,6 +49,17 @@
 1. **تجهيز البيانات:** قم بتحميل "قالب الإكسيل" المرفق داخل البرنامج.
 2. **ملء المحتوى:** اكتب بيانات الدرس (الكلمات، الترجمة، المرادفات، إلخ) داخل أعمدة الإكسيل المخصصة.
 3. **توليد الدرس:** ارفع ملف الإكسيل إلى البرنامج واضغط على "إنشاء". سيقوم البرنامج فوراً بإنشاء صفحة HTML تفاعلية جاهزة لترسلها لطلابك.
+
+---
+
+## 🎯 مخرجات التطبيق (النتيجة النهائية)
+
+هذه هي النتيجة التفاعلية التي ستحصل عليها ويراها طلابك بعد تحويل ملف الإكسيل:
+
+<div align="center">
+  <img width="48%" alt="Output View 1" src="رابط_صورة_المخرج_1_هنا" />
+  <img width="48%" alt="Output View 2" src="رابط_صورة_المخرج_2_هنا" />
+</div>
 
 ---
 
