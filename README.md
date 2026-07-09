@@ -56,28 +56,29 @@
 
 هذه هي النتيجة التفاعلية التي ستحصل عليها ويراها طلابك بعد تحويل ملف الإكسيل:
 
-<div align="center">
-  <img width="48%" alt="Output View 1" src="رابط_صورة_المخرج_1_هنا" />
-  <img width="48%" alt="Output View 2" src="رابط_صورة_المخرج_2_هنا" />
-</div>
-
----
-
-## 📸 صور من داخل التطبيق
-
 ### 💻 واجهة الكمبيوتر (PC)
 <div align="center">
-  <img width="48%" alt="PC View 1" src="https://github.com/user-attachments/assets/7d22c1b5-4c11-4777-925f-f1ba9668ed07" />
-  <img width="48%" alt="PC View 2" src="https://github.com/user-attachments/assets/03ab545f-ab6c-413d-82fe-f29d9e76e3ca" />
+  <img width="48%" alt="PC View 1" src="https://github.com/user-attachments/assets/52f2070f-2e97-4d3d-ab14-6690fca77d93" />
+  <img width="48%" alt="PC View 2" src="https://github.com/user-attachments/assets/b9921404-eb5b-4774-9973-479e10f7f857" />
 </div>
+
 
 ### 📱 واجهة الهاتف (Mobile)
 <div align="center">
-  <img width="30%" alt="Mobile View 1" src="https://github.com/user-attachments/assets/f25c35af-710f-4213-b5ba-1021b51564f9" />
-  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/e71ae9df-6860-4c6a-a14e-66bccdc32321" />
-  <img width="30%" alt="Mobile View 3" src="https://github.com/user-attachments/assets/27473156-8d4a-46cf-91d2-dee1eccae854" />
+  <img width="30%" alt="Mobile View 1" src="https://github.com/user-attachments/assets/7d0a5191-147c-441b-adf1-e26e285c3096" />
+  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/3115a9ae-ce65-40e2-856c-cfb76a80fc45" />
+  <img width="30%" alt="Mobile View 3" src="https://github.com/user-attachments/assets/0fd1439a-76ca-438d-b6a6-11e109639ab9" />
 </div>
 
+---
+## 📸 صور من داخل التطبيق
+
+
+
+<div align="center">
+  <img width="48%" alt="Output View 1" src="https://github.com/user-attachments/assets/c1ddecfc-d8da-4b1b-bc2b-6f60cf36d8c6" />
+  <img width="48%" alt="Output View 2" src="https://github.com/user-attachments/assets/3158f05b-066b-4fe8-8a9c-96393f8d9eb7" />
+</div>
 ---
 
 ## 📞 الدعم والتواصل
