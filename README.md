@@ -39,6 +39,7 @@
 
 
 <br>
+<br>
 <div align="center">
   - - - - - - - - - - - - - - - - - - - -
 </div>
@@ -51,6 +52,54 @@
   <img width="48%" alt="Output View 2" src="https://github.com/user-attachments/assets/3158f05b-066b-4fe8-8a9c-96393f8d9eb7" />
   <img width="48%" alt="Output View 1" src="https://github.com/user-attachments/assets/c1ddecfc-d8da-4b1b-bc2b-6f60cf36d8c6" />
 </div>
+
+---
+
+
+
+## 🛠️ طريقة الاستخدام
+
+العملية تتم في 3 خطوات بسيطة:
+1. **تجهيز البيانات:** قم بتحميل "قالب الإكسيل" المرفق داخل البرنامج.
+2. **ملء المحتوى:** اكتب بيانات الدرس (الكلمات، الترجمة، المرادفات، إلخ) داخل أعمدة الإكسيل المخصصة.
+3. **توليد الدرس:** ارفع ملف الإكسيل إلى البرنامج واضغط على "إنشاء". سيقوم البرنامج فوراً بإنشاء صفحة HTML تفاعلية جاهزة لترسلها لطلابك.
+
+---
+
+## 📥 التحميل والتثبيت
+
+**اضغط على الزر التالي لتحميل أحدث إصدار من البرنامج مباشرة:**
+
+<br>
+<div align="center" dir="ltr">
+  <h3>
+    👉&nbsp;&nbsp;<a href="https://github.com/A-Elmarakby/Testat-Words/releases/latest/download/Testat-Setup.exe"><img src="https://img.shields.io/badge/-Download%20Latest%20Version-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Latest Version" align="middle"></a>&nbsp;&nbsp;👈
+  </h3>
+</div>
+<br>
+
+بمجرد انتهاء التحميل، قم بتشغيل ملف `Testat-Setup.exe` واتبع خطوات التثبيت البسيطة.
+
+
+
+
+
+<br>
+
+### ⚠️ ملاحظة هامة حول رسالة أمان ويندوز (Windows SmartScreen)
+
+بما أن هذا البرنامج جديد ولم يتم تسجيله بشهادة مطور مدفوعة (Code Signing Certificate) حتى الآن، قد تظهر لك شاشة زرقاء من نظام ويندوز تحذرك من تشغيل البرنامج عند محاولة التثبيت لأول مرة.
+
+**البرنامج آمن تماماً، ولتخطي هذه الرسالة بأمان:**
+
+1. في الشاشة الزرقاء التحذيرية، اضغط على كلمة **"مزيد من المعلومات"** أو **(More info)**.
+
+   <img width="450" alt="Windows SmartScreen - More Info" src="https://github.com/user-attachments/assets/0f9cefdd-f211-4121-9264-0075f0e99a69"  />
+
+2. سيظهر لك زر جديد بالأسفل، اضغط على **"تشغيل على أي حال"** أو **(Run anyway)**.
+
+   <img width="450" alt="Windows SmartScreen - Run Anyway"  src="https://github.com/user-attachments/assets/8a34bff3-5eac-4eb5-b37e-b682b6be7bb5"/>
+
 ---
 
 ## 📞 الدعم والتواصل
