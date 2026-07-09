@@ -1,13 +1,11 @@
+<h1 align="center">🎓 Testat Words</h1>
+
 <div align="center">
-  <img width="800" alt="Testat Words Cover" src="https://github.com/user-attachments/assets/0c0f3fe9-3cd7-4e32-a5cd-f5309e92acb9" />
+  <img width="100%" alt="Testat Words Cover" src="https://github.com/user-attachments/assets/24c9add3-b1a9-4063-ba7a-2be5572c48e4" />
+
+
 </div>
 
-# 🎓 Testat Words
-
-أداة ذكية وبسيطة مصممة خصيصاً لمساعدة المعلمين في إنشاء محتوى تعليمي تفاعلي.
-يقوم البرنامج بتحويل بيانات الدروس من ملفات الإكسيل (Excel) العادية إلى صفحات ويب (HTML) تفاعلية وجذابة، جاهزة لمشاركتها مع الطلاب لمساعدتهم في حفظ وإتقان المصطلحات الأكاديمية.
-
----
 
 ## ✨ المميزات الرئيسية
 
@@ -17,40 +15,9 @@
 * **📚 محتوى متكامل:** دعم كامل لإضافة المرادفات (Synonyms)، المضادات (Antonyms)، والتعبيرات اللغوية (Expressions).
 * **⚡ توفير الوقت:** لا حاجة لأي خبرة برمجية؛ كل ما عليك هو ملء ملف الإكسيل والبرنامج سيتكفل بالباقي.
 
----
 
-## 📥 التحميل والتثبيت
 
-1. قم بالذهاب إلى صفحة [الإصدارات (Releases)](#) الخاصة بالبرنامج. *(ضع رابط صفحة الإصدارات الخاص بك مكان الشباك)*
-2. قم بتحميل أحدث ملف تثبيت باسم `Testat-Setup.exe`.
-3. قم بتشغيل الملف واتبع خطوات التثبيت البسيطة.
 
-### ⚠️ ملاحظة هامة حول رسالة أمان ويندوز (Windows SmartScreen)
-
-بما أن هذا البرنامج جديد ولم يتم تسجيله بشهادة مطور مدفوعة (Code Signing Certificate) حتى الآن، قد تظهر لك شاشة زرقاء من نظام ويندوز تحذرك من تشغيل البرنامج عند محاولة التثبيت لأول مرة.
-
-**البرنامج آمن تماماً، ولتخطي هذه الرسالة بأمان:**
-
-1. في الشاشة الزرقاء التحذيرية، اضغط على كلمة **"مزيد من المعلومات"** أو **(More info)**.
-
-   <img width="450" alt="Windows SmartScreen - More Info" src="https://github.com/user-attachments/assets/0f9cefdd-f211-4121-9264-0075f0e99a69"  />
-
-2. سيظهر لك زر جديد بالأسفل، اضغط على **"تشغيل على أي حال"** أو **(Run anyway)**.
-
-   <img width="450" alt="Windows SmartScreen - Run Anyway"  src="https://github.com/user-attachments/assets/8a34bff3-5eac-4eb5-b37e-b682b6be7bb5"/>
-
-3. سيبدأ التثبيت بشكل![Uploading 1.webp…]().
-
----
-
-## 🛠️ طريقة الاستخدام
-
-العملية تتم في 3 خطوات بسيطة:
-1. **تجهيز البيانات:** قم بتحميل "قالب الإكسيل" المرفق داخل البرنامج.
-2. **ملء المحتوى:** اكتب بيانات الدرس (الكلمات، الترجمة، المرادفات، إلخ) داخل أعمدة الإكسيل المخصصة.
-3. **توليد الدرس:** ارفع ملف الإكسيل إلى البرنامج واضغط على "إنشاء". سيقوم البرنامج فوراً بإنشاء صفحة HTML تفاعلية جاهزة لترسلها لطلابك.
-
----
 
 ## 🎯 مخرجات التطبيق (النتيجة النهائية)
 
@@ -58,32 +25,53 @@
 
 ### 💻 واجهة الكمبيوتر (PC)
 <div align="center">
-  <img width="48%" alt="PC View 1" src="https://github.com/user-attachments/assets/52f2070f-2e97-4d3d-ab14-6690fca77d93" />
   <img width="48%" alt="PC View 2" src="https://github.com/user-attachments/assets/b9921404-eb5b-4774-9973-479e10f7f857" />
+  <img width="48%" alt="PC View 1" src="https://github.com/user-attachments/assets/52f2070f-2e97-4d3d-ab14-6690fca77d93" />
 </div>
 
 
 ### 📱 واجهة الهاتف (Mobile)
 <div align="center">
-  <img width="30%" alt="Mobile View 1" src="https://github.com/user-attachments/assets/7d0a5191-147c-441b-adf1-e26e285c3096" />
-  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/3115a9ae-ce65-40e2-856c-cfb76a80fc45" />
   <img width="30%" alt="Mobile View 3" src="https://github.com/user-attachments/assets/0fd1439a-76ca-438d-b6a6-11e109639ab9" />
+  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/3115a9ae-ce65-40e2-856c-cfb76a80fc45" />
+  <img width="30%" alt="Mobile View 1" src="https://github.com/user-attachments/assets/7d0a5191-147c-441b-adf1-e26e285c3096" />
 </div>
 
----
+
+<br>
+<div align="center">
+  - - - - - - - - - - - - - - - - - - - -
+</div>
+
 ## 📸 صور من داخل التطبيق
 
 
 
 <div align="center">
-  <img width="48%" alt="Output View 1" src="https://github.com/user-attachments/assets/c1ddecfc-d8da-4b1b-bc2b-6f60cf36d8c6" />
   <img width="48%" alt="Output View 2" src="https://github.com/user-attachments/assets/3158f05b-066b-4fe8-8a9c-96393f8d9eb7" />
+  <img width="48%" alt="Output View 1" src="https://github.com/user-attachments/assets/c1ddecfc-d8da-4b1b-bc2b-6f60cf36d8c6" />
 </div>
 ---
 
 ## 📞 الدعم والتواصل
 
-تم تطوير هذه الأداة بواسطة **عبدالرحمن المراكبي**. 
-إذا كان لديك أي استفسار، واجهت مشكلة، أو لديك اقتراح لتطوير البرنامج، يمكنك التواصل معي عبر:
-* **البريد الإلكتروني:** [بريدك الإلكتروني]
-* **لينكد إن (LinkedIn):** [رابط حسابك]
+إذا كان لديك أي استفسار، أو واجهت مشكلة، أو لديك اقتراح لتطوير البرنامج، يمكنك التواصل معي مباشرة من خلال:
+
+<div align="right">
+  
+  <a href="https://api.whatsapp.com/send?phone=201010043281&text=Hello%20Testat%20Words%20Team%2C%0AI%20need%20help%20with%3A%20">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/a-elmarakby">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:abderhmanelmarakby20@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
+
+<br>
+<br>
