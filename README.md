@@ -75,6 +75,11 @@
   <h3>
     👉&nbsp;&nbsp;<a href="https://github.com/A-Elmarakby/Testat-Words/releases/download/v1.0.7/Testat-Setup-1.0.7.exe"><img src="https://img.shields.io/badge/-Download%20Latest%20Version-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Latest Version" align="middle"></a>&nbsp;&nbsp;👈
   </h3>
+
+  <br>
+
+  ![Total Downloads](https://img.shields.io/github/downloads/A-Elmarakby/Testat-Words/total?style=flat-square&logo=github&color=2ea44f&label=Total%20Downloads)
+
 </div>
 <br>
 
