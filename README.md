@@ -25,16 +25,16 @@
 
 ### 💻 واجهة الكمبيوتر (PC)
 <div align="center">
-  <img width="48%" alt="PC View 2" src="https://github.com/user-attachments/assets/b9921404-eb5b-4774-9973-479e10f7f857" />
   <img width="48%" alt="PC View 1" src="https://github.com/user-attachments/assets/52f2070f-2e97-4d3d-ab14-6690fca77d93" />
+  <img width="48%" alt="PC View 2" src="https://github.com/user-attachments/assets/b9921404-eb5b-4774-9973-479e10f7f857" />
 </div>
 
 
 ### 📱 واجهة الهاتف (Mobile)
 <div align="center">
-  <img width="30%" alt="Mobile View 3" src="https://github.com/user-attachments/assets/0fd1439a-76ca-438d-b6a6-11e109639ab9" />
-  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/3115a9ae-ce65-40e2-856c-cfb76a80fc45" />
   <img width="30%" alt="Mobile View 1" src="https://github.com/user-attachments/assets/7d0a5191-147c-441b-adf1-e26e285c3096" />
+  <img width="30%" alt="Mobile View 2" src="https://github.com/user-attachments/assets/3115a9ae-ce65-40e2-856c-cfb76a80fc45" />
+  <img width="30%" alt="Mobile View 3" src="https://github.com/user-attachments/assets/0fd1439a-76ca-438d-b6a6-11e109639ab9" />
 </div>
 
 
@@ -49,8 +49,8 @@
 
 
 <div align="center">
-  <img width="48%" alt="Output View 2" src="https://github.com/user-attachments/assets/3158f05b-066b-4fe8-8a9c-96393f8d9eb7" />
   <img width="48%" alt="Output View 1" src="https://github.com/user-attachments/assets/c1ddecfc-d8da-4b1b-bc2b-6f60cf36d8c6" />
+  <img width="48%" alt="Output View 2" src="https://github.com/user-attachments/assets/3158f05b-066b-4fe8-8a9c-96393f8d9eb7" />
 </div>
 
 ---
